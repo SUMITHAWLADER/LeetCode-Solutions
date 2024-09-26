@@ -22,6 +22,4 @@ class Solution {
           System.out.print(result);
           scanner.close();
         }
-
-       
 }
